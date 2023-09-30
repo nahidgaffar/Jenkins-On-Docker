@@ -167,8 +167,7 @@ This sample uses the following libraries.
 |go-playground/validator.v9|9.31.0|
 |zap|1.19.1|
 
-## Contribution
-Please read [CONTRIBUTING.md](https://github.com/ybkuroki/go-webapp-sample/blob/master/CONTRIBUTING.md) for proposing new functions, reporting bugs and submitting pull requests before contributing to this repository.
+
 
 ## License
 The License of this sample is *MIT License*.
